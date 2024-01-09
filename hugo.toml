@@ -1,0 +1,27 @@
+
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Mi Primer Blog'
+theme = "hugo-PaperMod-7.0"
+description = "Este es mi sitio web personal creado con Hugo y PaperMod."
+author = "Eduardo Cisneros Biz"
+
+
+[[menu.main]]
+identifier = "about"
+name = "Sobre Mí"
+url = "/about/"
+
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/posts/"
+
+
+[params.social]
+github = "https://github.com/BizCis"
+
+
+[params]
+  dateFormat = "2 January 2006"
