@@ -5,6 +5,7 @@ title = 'Mi Primer Blog'
 theme = "hugo-PaperMod-7.0"
 description = "Este es mi sitio web personal creado con Hugo y PaperMod."
 author = "Eduardo Cisneros Biz"
+publishDir = "docs"
 
 
 [[menu.main]]
