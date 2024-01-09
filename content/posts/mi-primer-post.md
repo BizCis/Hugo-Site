@@ -4,9 +4,9 @@ date = 2024-01-08T18:56:49-06:00
 draft = false
 +++
 
-# Bienvenido a Mi Blog
+# Bienvenida Gema
 
-Hola, soy Eduardo y este es mi primer post en el blog. Quiero contarles un poco sobre mí y lo que pueden esperar de este espacio...
+Buenas noches lisenciada, espero que este teniendo una noche agradable
 
 ## ¿Quién Soy y Por Qué Estoy Aquí?
 
