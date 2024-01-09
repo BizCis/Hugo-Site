@@ -1,5 +1,5 @@
 
-baseURL = 'https://example.org/'
+baseURL = 'https://bizcis.github.io/Hugo-Site/'
 languageCode = 'en-us'
 title = 'Mi Primer Blog'
 theme = "hugo-PaperMod-7.0"
