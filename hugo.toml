@@ -2,7 +2,7 @@
 baseURL = 'https://bizcis.github.io/Hugo-Site/'
 languageCode = 'en-us'
 title = 'Mi Primer Blog'
-theme = "hugo-PaperMod-7.0"
+theme = "hugo-blog-awesome-main"
 description = "Este es mi sitio web personal creado con Hugo y PaperMod."
 author = "Eduardo Cisneros Biz"
 publishDir = "docs"
